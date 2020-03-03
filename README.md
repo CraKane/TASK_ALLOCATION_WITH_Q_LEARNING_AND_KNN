@@ -1,0 +1,2 @@
+# TASK_ALLOCATION_WITH_Q_LEARNING_AND_KNN
+ 使用knn和Qlearning的方法相结合来处理平台调度任务顺序的问题。
